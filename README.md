@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 I’m currently learning **Spring Boot**
-- 💬 Ask me about **AI, Blockchain**
+- 💬 Ask me about **AI, Blockchain, Full Stack Development**
 - 📫 Reach me at **adityaajitpai@gmail.com**
 - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1vatfLRzO8sqfb8Oie2xg7Z01oCGRsM74/view)
 
