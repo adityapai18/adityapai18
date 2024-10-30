@@ -76,15 +76,18 @@
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png">
 </div>
 
+<h2>My Trophies: 🏆</h2>
+<div align="center">
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=adityapai18&rank=-?" alt="adityapai18's GitHub Trophies" />
+  </p>
+</div>
+
 <h2>My Stats: 📊</h2>
 
 <div align="center">
 
-<div align="center">
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapai18&rank=S,AAA,A,B" alt="adityapai18's GitHub Trophies" />
-  </p>
-</div>
+
 
 
 <p align="center">
