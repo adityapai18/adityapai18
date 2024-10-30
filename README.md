@@ -79,6 +79,11 @@
 <h2>My Stats: 📊</h2>
 
 <div align="center">
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA,A,B" alt="adityapai18's GitHub Trpophies" />
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapai18&show_icons=true&theme=tokyonight&locale=en" alt="adityapai18's GitHub stats" />
 </p>
