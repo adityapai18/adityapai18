@@ -10,7 +10,7 @@
     <!-- <img src="./eren.gif" align="right" height="320" /> -->
 <br>
     <ul align="left">
-        <li style="font-size:18px">🌟 Welcome to my captivating journey as a  developer and an budding entrepreneur!</li>
+        <li style="font-size:18px">🌟 Welcome to my captivating journey as a enthusiastic developer and a budding entrepreneur!</li>
         <li style="font-size:18px">🧱 I love building stuff and thrive on new opportunities and challenges.</li>
         <li style="font-size:18px">🌐 Open to collaborating with like-minded intellectuals and sharing skills with the community.</li>
         <li style="font-size:18px">💻 I am Full Stack Developer and AI/ML guy, but I'm always exploring new fields and experimenting.</li>
